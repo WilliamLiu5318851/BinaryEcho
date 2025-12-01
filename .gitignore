@@ -1,0 +1,18 @@
+# 忽略所有缓存和临时文件
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+Build/
+
+# 忽略 Visual Studio/Rider 的本地文件
+*.sln
+*.suo
+*.sdf
+*.user
+*.pdb
+*.VC.db
+*.VC.opendb
+.vs/
+.vscode/
+.idea/
