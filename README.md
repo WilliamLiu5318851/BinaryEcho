@@ -9,7 +9,7 @@
 The primary objective is to navigate the planetary terrain, solve environmental puzzles, and activate the "Resonance Spires" (Towers) to restore the universe's harmony.
 
 ## 2. How to Launch
-1.  **Unzip** the submitted project folder.
+1.  **Pack** the submitted project folder.
 2.  Run the executable file: **`BinaryEchoes.exe`**.
 3.  *Note:* Source files can be accessed via the GitHub link provided below.
 
